@@ -1,0 +1,7 @@
+
+{
+    "headers": {
+        "User-Agent": "LearningScrappingBot/1.0 (+https://github.com/Kalia-H)"
+    },
+    "base_url": "https://en.wikipedia.org/wiki/"
+}
